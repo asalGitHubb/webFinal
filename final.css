@@ -1,0 +1,71 @@
+html{
+    height: 100%;
+    background-image: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+
+}
+
+div{
+    height: 370px;
+    width: 270px;
+    background-color:rgba(35, 28, 45, 0.899);
+    border-width: 3px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin: 0px auto;
+    margin-top:80px;
+    box-shadow: 2px 2px 2px rgb(95, 95, 95);
+}
+
+#header{
+    font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    color:white;
+    text-align: center;
+}
+
+#total{
+    font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    color:white;
+    padding-left: 30px;
+    margin-top: 35px;
+}
+
+#inp1,#inp2{
+    background-color:rgba(170, 157, 255, 0.222);
+    border-radius:10px;
+    padding-left: 10px;
+    margin-left: 30px;
+}
+
+#inp1:hover{
+    background-color: rgba(170, 157, 255, 0.429);
+}
+
+#Tip{
+    font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    color:white;
+    padding-left: 30px;
+    margin-top: 35px;   
+}
+
+
+#inp2:hover{
+    background-color: rgba(170, 157, 255, 0.429);
+}
+
+#people{
+    font-family:"Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    color:white;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 35px;     
+}
+
+#c1,#c2{
+    background-color: rgba(170, 157, 255, 1);
+    border-radius: 50%;
+}
+
+#c1,#c2:hover{
+    background-color: rgb(196, 187, 252);
+    cursor:pointer;
+}
